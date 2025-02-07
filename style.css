@@ -1,0 +1,137 @@
+/* Font Wrap
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+/* font wrap end */
+
+/* global css */
+body{
+    font-family: "Poppins",serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: black;
+    font-weight: 400;
+    
+}
+
+.cus-btn{
+    border-radius: 33px;
+    background-color: #21B573;
+    font-family: "Roboto",serif;
+
+}
+.h4{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+h2{
+font-size:36px;
+font-weight: 700;
+line-height: 54px;
+}
+
+header{
+background-color: #F0FFF0 !important;
+}
+
+/* header section css */
+.navbar-brand img{
+width:198.07px;
+}
+
+.botton{
+    padding:10px 38px;
+    background-color: #21B573;
+    border-radius: 45px;
+    position: relative;
+    bottom:5px;
+    right:55px;
+    
+
+}
+.botton a{
+    text-decoration: none;
+    color: white;
+}
+.nav-item{
+    margin-left: 35px;
+}
+  /* banner css */
+
+
+  h6{
+    color: #FD511A;
+    line-height: 24px;
+  }
+
+h1{
+    font-size:48px;
+    font-weight: 700;
+    line-height: 70px;
+    text-align: left;
+}
+
+h1 span{
+    color: #21B573;
+}
+.banner-section p{
+    font-weight:500;
+    width:65%;
+    margin-bottom: 20px;
+}
+
+.banner-section{
+    background-color: #F0FFF0;
+    
+}
+
+
+.banner-section a{
+    
+    font-weight:500;
+    width:65%;
+    padding:12px 36px;
+    color: white;
+    text-decoration:none;
+}
+.realbtn{
+    margin-top:35px;
+    position: relative;
+    bottom:15px;
+}
+
+/* feature */
+
+.feature-section{
+    padding:30px 0px 
+}
+
+
+
+
+
+
+.feature-section .f-inner:hover{
+    background-color: white;
+    box-shadow:0px 20px 40px 0px #0000001A ;
+    border-radius: 10px;
+    transform: scale(1.02);
+
+
+}
+
+.feature-section .f-inner  .img-part {
+    width:66xpx;
+    height:85px;
+    margin-bottom: 30px;
+   
+   }
+
+.feature-section .f-inner  .img-part img{
+ width:66xpx;
+ height:85px;
+ background-color: #F0FFF0;
+ border-radius: 10px;
+ position: relative;
+
+} */
